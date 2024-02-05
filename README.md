@@ -8,4 +8,6 @@ For example, a car manufacturing factory might have previously required workers 
 
 Employee attrition is measured by calculating the attrition rate.
 
-https://drive.google.com/file/d/1or95aTkMRUNJbYraP4-_sTofVAFqN8dL/view?usp=drivesdk
+ PDFlink: https://drive.google.com/file/d/1or95aTkMRUNJbYraP4-_sTofVAFqN8dL/view?usp=drivesdk
+ Excel link: 
+ https://docs.google.com/spreadsheets/d/1q5MXljq2LfCIP_C5AF2DkIArxV0tf7j7/edit?usp=drivesdk&ouid=104574152075495710907&rtpof=true&sd=true
