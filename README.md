@@ -1,4 +1,4 @@
- # UNP_Project_Ms_Excel_HR_Data
+ # UNP_PROJECT_MS_EXCEL_HR_DATA
 
 Key Highlights:                  Employee attrition happens when an employee leaves an organization for any reason and is not replaced for a long time, or not ever. It often results in a decrease in the size of an organization’s or department’s workforce because positions aren’t refilled when employees leave.
 
